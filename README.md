@@ -1,29 +1,12 @@
-# vue-project
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
+# ConspiracyDots v2
+The better conspiracy dots (code wise atleast)
+and technically just random projects thats in the folder
+this is built with vue so like
 ```sh
 npm run dev
 ```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+that lets you run it locally
+the hello.js is for my digitalocean server, idk why it wont run locally like wtf
+but anyway
+conspiracy dots v2
+its a thing ig
