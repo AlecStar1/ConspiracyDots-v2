@@ -10,3 +10,8 @@ the hello.js is for my digitalocean server, idk why it wont run locally like wtf
 but anyway
 conspiracy dots v2
 its a thing ig
+
+
+UPDATE: i threw the hello file out of the folder
+<br>
+oops.
